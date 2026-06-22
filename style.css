@@ -4441,7 +4441,7 @@ body.catalog-page { background-color: #F6F6F6; }
 
 @media (max-width: 480px) {
     .product-detail-container {
-        padding-top: 80px;
+        padding-top: 30px;
         padding-left: 12px;
         padding-right: 12px;
     }
